@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hoscheasy</string>
+    <string name="default_notification_channel_id">Mytelpay_CSE</string>
+    <string name="default_notification_channel_name">Mytelpay CSE</string>
+</resources>

@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "449510218397",
+    "firebase_url": "https://mytelpay-3689.firebaseio.com",
+    "project_id": "mytelpay-3689",
+    "storage_bucket": "mytelpay-3689.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449510218397:android:7a359cc2d5359227",
+        "android_client_info": {
+          "package_name": "com.mytelpay.agent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449510218397-dm0cc4uiir04icloh0ru1eoudg5tk0gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1hn_peWtReoxFL6JMezQqgu9C_lbabA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449510218397-dm0cc4uiir04icloh0ru1eoudg5tk0gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449510218397-iv3c3eenbcp6c1ffmhq0c2kt3dbkhhcs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.viettel.mytelpay.agent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449510218397:android:bd08da9be5d4a358",
+        "android_client_info": {
+          "package_name": "com.mytelpay.cse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449510218397-dm0cc4uiir04icloh0ru1eoudg5tk0gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1hn_peWtReoxFL6JMezQqgu9C_lbabA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449510218397-dm0cc4uiir04icloh0ru1eoudg5tk0gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449510218397-iv3c3eenbcp6c1ffmhq0c2kt3dbkhhcs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.viettel.mytelpay.agent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449510218397:android:62c6033c7498dcd6",
+        "android_client_info": {
+          "package_name": "com.mytelpay.eu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449510218397-dm0cc4uiir04icloh0ru1eoudg5tk0gd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw1hn_peWtReoxFL6JMezQqgu9C_lbabA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449510218397-dm0cc4uiir04icloh0ru1eoudg5tk0gd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "449510218397-iv3c3eenbcp6c1ffmhq0c2kt3dbkhhcs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.viettel.mytelpay.agent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
